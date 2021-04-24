@@ -189,8 +189,11 @@ footer {
     float: right;
 }
 
-
+#form{
+    padding-top: 30px;
+}
 form p > label {
+    margin: 10px;
     display: inline-block;
     width: 70px;
 }
