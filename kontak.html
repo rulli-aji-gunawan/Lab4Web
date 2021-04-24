@@ -7,23 +7,6 @@
     <title>Layout Sederhana</title>
     <link rel="stylesheet" href="style.css">
 
-    <!-- <style>
-        form p > label {
-            display: inline-block;
-            width: 70px;
-        }
-        form input[type="text"], form textarea {
-            border: 1px solid #197a43;
-        }
-        form input[type="submit"] {
-            border: 1px solid #197a43; 
-            background-color: #197a43;
-            color: #ffffff;
-            font-weight: bold;
-            padding: 5px 15px;
-        }
-    </style> -->
-
 </head>
 <body>
     <div id="container">        
@@ -31,33 +14,36 @@
             <h1>Hubungi Kami</h1>
         </header>
             <nav>
-                <a href="home.html">Home</a>
+                <a href="lab4_layout.html">Home</a>
                 <a href="artikel.html">Artikel</a>
                 <a href="about.html">About</a>
                 <a href="kontak.html" class="active">Kontak</a>
             </nav>
-        </div>
-    <!-- <header>
-        <h1>Hubungi Kami</h1>
-    </header> -->
-    <form action="proses.php" method="post">
-        <fieldset>
-            <legend>Data anda</legend>
-            <p>
-                <label for="nama">Nama</label>
-                <input type="text" id="nama" name="nama">
-            </p>
-            <p>
-                <label for="email">Email</label>
-                <input type="text" id="email" name="email">
-            </p>
-            <p>
-                <label for="message">Message</label>
-                <textarea id="message" name="message" cols="20" rows="3"></textarea>
-            </p>
-            
-            <p><input type="submit" value="Kirim"></p>
-        </fieldset>
-    </form>
-    </body>
+        
+
+        <section id="wrapper">
+            <section id="form">
+                <form action="proses.php" method="post">
+                    <fieldset>
+                        <legend>Data anda</legend>
+                        <p>
+                            <label for="nama">Nama</label>
+                            <input type="text" id="nama" name="nama">
+                        </p>
+                        <p>
+                            <label for="email">Email</label>
+                            <input type="text" id="email" name="email">
+                        </p>
+                        <p>
+                            <label for="message">Message</label>
+                            <textarea id="message" name="message" cols="20" rows="3"></textarea>
+                        </p>
+                        
+                        <p><input type="submit" value="Kirim"></p>
+                    </fieldset>
+                </form>
+            </section>
+        </section>
+    </div>
+</body>
 </html>
