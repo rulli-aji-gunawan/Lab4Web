@@ -1,6 +1,6 @@
 # Lab4Web
 + Membuat file HTML dengan nama lab4_box.html untuk latihan membuat element box pada halaman HTML.
-+ +
+
 ![01](https://user-images.githubusercontent.com/56189248/115938709-c07f1a80-a4c5-11eb-873b-cc2259462e4e.png)
 ![02](https://user-images.githubusercontent.com/56189248/115938711-c07f1a80-a4c5-11eb-8cd2-8a3d9066dc94.png)
 ![03](https://user-images.githubusercontent.com/56189248/115938712-c117b100-a4c5-11eb-876e-49f23ad9d4d1.png)
