@@ -2,10 +2,22 @@
 + Membuat file HTML dengan nama lab4_box.html untuk latihan membuat element box pada halaman HTML.
 
 ![01](https://user-images.githubusercontent.com/56189248/115938709-c07f1a80-a4c5-11eb-873b-cc2259462e4e.png)
+
++ Hasil tampilannya masih sangat sederhana.
+
 ![02](https://user-images.githubusercontent.com/56189248/115938711-c07f1a80-a4c5-11eb-8cd2-8a3d9066dc94.png)
+
++ Menambhkan internal style pada tiap-tiap class dari tag div yang sudah dibuat.
+
 ![03](https://user-images.githubusercontent.com/56189248/115938712-c117b100-a4c5-11eb-876e-49f23ad9d4d1.png)
+
++ Hasil tampilannya menjadi lebih raoih dan menarik dengan berbagai pilihan warna yang bisa ditampilkan.
+
 ![04](https://user-images.githubusercontent.com/56189248/115938713-c1b04780-a4c5-11eb-8908-16d7f4fb6f47.png)
 ![05](https://user-images.githubusercontent.com/56189248/115938717-c1b04780-a4c5-11eb-8110-373f907d372a.png)
+
++ Menambahkan satu tag div lagi dengan dengan style yang berbeda.
+
 ![06](https://user-images.githubusercontent.com/56189248/115938718-c248de00-a4c5-11eb-9d5c-33451e60cc81.png)
 ![07](https://user-images.githubusercontent.com/56189248/115938720-c2e17480-a4c5-11eb-977b-24a797ead618.png)
 ![08](https://user-images.githubusercontent.com/56189248/115938721-c37a0b00-a4c5-11eb-8f73-7047001bc422.png)
